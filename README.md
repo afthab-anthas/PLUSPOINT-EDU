@@ -1,7 +1,6 @@
 <p align="center"><a href="https://pluspoint.uk" target="_blank"><img src="public/assets/images/logomain-D82XgayM.png" width="auto" height="300px" alt="Pluspoint Logo"></a></p>
 
 <p align="center">
-<a href="https:://pluspoint.uk"><img src="https://cdn-icons-png.flaticon.com/128/8207/8207780.png" alt="Build Status"></a>
 </p>
 
 ## About Laravel
