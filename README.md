@@ -72,7 +72,22 @@ To run the project locally, follow these steps:
 
 1. **Clone the Repository**: Download the project files from the repository.
    ```bash
-   git clone [repository-url]
+   git clone [git@github.com:afthab-anthas/PLUSPOINT-EDU.git]
+2. **Set Up Environment**: Install MAMP (or XAMPP) for running the project locally.
+
+3. **Install Dependencies**: Navigate to the project directory and install the required Laravel dependencies.
+   ```bash
+   composer install
+   npm install
+4. **Set Up Environment Variables**: Configure the `.env` file with your database credentials.
+5. **Migrate Database**: Run migrations to set up the database schema.
+    ```bash
+    php artisan migrate
+6. **Run the Server**: Use Laravel’s built-in server to run the project.
+    ```bash
+    php artisan serve
+
+7.**Access the Website**: Open `http://localhost:8000` to view the project locally.
 
 
 
