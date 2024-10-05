@@ -1,4 +1,4 @@
-<p align="center"><a href="https://pluspoint.uk" target="_blank"><img src="public/assets/images/logomain-D82XgayM.png" width="400" alt="Pluspoint Logo"></a></p>
+<p align="center"><a href="https://pluspoint.uk" target="_blank"><img src="public/assets/images/logomain-D82XgayM.png" width="auto" height:"100px" alt="Pluspoint Logo"></a></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
