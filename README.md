@@ -1,10 +1,7 @@
-<p align="center"><a href="https://pluspoint.uk" target="_blank"><img src="public/assets/images/logomain-D82XgayM.png" width="auto" height:"100px" alt="Pluspoint Logo"></a></p>
+<p align="center"><a href="https://pluspoint.uk" target="_blank"><img src="public/assets/images/logomain-D82XgayM.png" width="auto" height="300px" alt="Pluspoint Logo"></a></p>
 
 <p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+<a href="https:://pluspoint.uk"><img src="https://cdn-icons-png.flaticon.com/128/8207/8207780.png" alt="Build Status"></a>
 </p>
 
 ## About Laravel
