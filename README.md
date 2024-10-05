@@ -101,7 +101,4 @@ To run the project locally, follow these steps:
 ## 🍿 Live Website
 <img src="public/assets/images/logomain-D82XgayM.png" width="auto" height="300px" alt="Pluspoint Logo">
 
-## Disclaimer
-
-This project was developed by me for Expert Recruitment Services. The code and content presented on this website are for educational purposes only and are not intended for unauthorized use or reproduction. Any attempts to replicate, modify, or misuse this code could result in legal consequences. By accessing this website, you agree to use the information responsibly and respect the rights of the company.
-
+> **Disclaimer:** This project was developed for Expert Recruitment Services UAE. The code and content on this site are for educational purposes only and should not be used or reproduced without permission. Unauthorized use may result in legal consequences. By accessing this codebase, you agree to use the information responsibly by accomplying to the company's regulations.
