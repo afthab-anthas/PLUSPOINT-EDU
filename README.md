@@ -5,7 +5,9 @@
 
 ## 🏫 About PlusPoint
 
-Plus Point Educational Support Services is an organization focused on guiding students through the complexities of international university admissions. This project was completed in one month as part of my internship as a Frontend Developer for a client. It provides comprehensive assistance in selecting the right institutions and courses while ensuring that students meet all necessary application requirements for studying abroad. The company specializes in admissions to countries such as the UK, Germany, Romania, Canada, Australia, New Zealand, Singapore, Malaysia, UAE, and India. PlusPoint is dedicated to helping students achieve their educational goals and successfully navigate the international application process.
+Plus Point Educational Support Services is an organization focused on guiding students through the complexities of international university admissions. This project was completed in one month as part of my internship as a Frontend Developer for a client. It provides comprehensive assistance in selecting the right institutions and courses while ensuring that students meet all necessary application requirements for studying abroad. The company specializes in admissions to countries such as the UK, Germany, Romania, Canada, Australia, New Zealand, Singapore, Malaysia, UAE, and India. PlusPoint is dedicated to helping students achieve their educational goals and successfully navigate the international application process. 
+
+Visit [PlusPoint's website](https://pluspoint.uk).
 
 
 ## 📦 Technologies
