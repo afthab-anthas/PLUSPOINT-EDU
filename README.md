@@ -98,4 +98,5 @@ To run the project locally, follow these steps:
 
 
 
-## 🍿 Video
+## 🍿 Live Website
+<img src="public/assets/images/logomain-D82XgayM.png" width="auto" height="300px" alt="Pluspoint Logo">
